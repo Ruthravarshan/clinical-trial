@@ -1,0 +1,21 @@
+Week | Day(s),Week,Week | -28to-6,Week | -5to-1,0 | 0,0 | 2,1 | 6,1 | 10,2 | 14,4 | 28,6 | 42,8 | 56,10 | 70,10 | 72,10 | 76,10 | 80,12 | 84,12 | 90,15 | 105
+Allowedwindowforvisit(days),,,,,,±1,±1,±1,±1,±2,±2,±2,,,±1,±2,±2,±2
+Visits,Visit0Stabilization,Visit1Screening,Visit1.1Baseline,Visit2Baseline,V2.1,V2.2,V2.3,V3,V4,V5,V6,V7,V7.1,V7.2,V7.3,V8(EoTVisit),V8.1,V9(SafetyFollow-upVisit)
+Informedconsent,•,•a,,,,,,,,,,,,,,,,
+Inclusion/exclusioncriteria,,•,,•,,,,,,,,,,,,,,
+Stableconventionaltreatment,•,•,•,•,,,,•,•,•,•,•,,,,•,,•
+"HIV,HBV,HCV,EBV,CMVtest",,•,,,,,,,,,,,,,,,,
+TBtest,,•,,,,,,,,,,,,,,,,•
+Randomisation,,,,•,,,,,,,,,,,,,,
+Demographics,•,•,,,,,,,,,,,,,,,,
+Alcoholandtobaccohabits,,•,,,,,,,,,,,,,,,,
+Medicalandsurgicalhistory,,•,,,,,,,,,,,,,,,,
+"UCmedicalhistory,confirmationofUCdiagnosis,andpreviousUCtherapy",•,•,,,,,,,,,,,,,,,,
+Urinescreeningfordrugsofabuse,,•,,,,,,,,,,,,,,,,
+Endoscopybincludingbiopsysampling,,•c,,,,,,,,,,,,,,•,,
+Diarydispensing,,•,•,•,,,,•,•,•,•,•,,,,,,
+Diaryreviewd,,,•,•,,,,•,•,•,•,•,,,,•,,
+Efficacyevaluation(fullMayoscore),,,,•,,,,,,,,,,,,•,,
+Efficacyevaluation(9-pointpartialMayoscore),,,,•,,,,•,•,•,•,•,,,,•,,
+BloodsamplingforPKassessmentse,,,,•,•,•,•,•,•,•,•,•,•,•,•,•,•,•
+Faecessamplingforcalprotectin,,,,•,,,,,•,,•,,,,,•,,

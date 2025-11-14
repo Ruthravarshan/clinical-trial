@@ -8,11 +8,11 @@ import numpy as np
 import camelot
 import pandas as pd
 from typing import Optional, Tuple, List, Dict, Any
-
+from dotenv import load_dotenv
 # -----------------------------
 # Config
 # -----------------------------
-API_KEY = os.getenv("GEMINI_API_KEY", "")
+API_KEY = os.getenv("GEMINI_API_KEY")
 if API_KEY:
     genai.configure(api_key=API_KEY)
 EMBED_MODEL = "text-embedding-004"

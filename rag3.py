@@ -5,9 +5,10 @@ import faiss
 import numpy as np
 import pdfplumber
 import pandas as pd
+from dotenv import load_dotenv
 
 # ---------------- Configuration ----------------
-API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyD8HQXLPT9JoMORrYfil1voZCIj6_G6nyA")  # replace YOUR_API_KEY if you want to hardcode
+API_KEY = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=API_KEY)
 
 EMBED_MODEL = "text-embedding-004"
