@@ -2,7 +2,7 @@ import camelot
 import pandas as pd
 
 # Path to your PDF
-pdf_path = "Prot_000.pdf"
+pdf_path = "Prot_0.pdf"
 
 # Extract all tables from all pages
 tables = camelot.read_pdf(pdf_path, pages='44,45', flavor='lattice')

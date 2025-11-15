@@ -8,6 +8,7 @@ import pandas as pd
 from dotenv import load_dotenv
 
 # ---------------- Configuration ----------------
+load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=API_KEY)
 
